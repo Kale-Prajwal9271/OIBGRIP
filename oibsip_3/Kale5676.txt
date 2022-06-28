@@ -1,0 +1,10 @@
+Atm PIN :1234
+Account Number :56789012
+Account Holder :Dilip Kale
+User Id:Kale5676
+Account Balance :6500
+
+.....Transaction History.....
+Amount Rs5000/-deposited
+Amount Rs3000/-withdrawn
+Amount Rs3500/-Deposited by Kale5676

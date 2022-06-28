@@ -1,0 +1,11 @@
+Atm PIN :1123
+Account Number :12345678
+Account Holder :Prajwal Kale
+User Id:Prajwal2709
+Account Balance :2621
+
+.....Transaction History.....
+Amount Rs10000/-deposited
+Amount Rs5000/-withdrawn
+Amount Rs3500/-Transferred to 56789012
+Amount Rs121/-deposited
